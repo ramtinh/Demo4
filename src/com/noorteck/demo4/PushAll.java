@@ -6,6 +6,7 @@ public class PushAll {
 		
 		System.out.println("1st Change");
 		
+		System.out.println("2nd Change");
 		
 	}
 
