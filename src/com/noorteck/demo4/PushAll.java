@@ -17,6 +17,7 @@ public class PushAll {
 	public static void multiply (double c, double d) {
 		
 		double f;
+		int x;
 	}
 
 }
