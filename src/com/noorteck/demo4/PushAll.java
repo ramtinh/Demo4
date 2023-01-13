@@ -11,5 +11,8 @@ public class PushAll {
 		System.out.println("3rd Change");
 		
 	}
+	public void static add(int a, int b){
+		
+	}
 
 }
