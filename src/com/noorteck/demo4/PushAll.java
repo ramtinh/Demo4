@@ -8,6 +8,8 @@ public class PushAll {
 		
 		System.out.println("2nd Change");
 		
+		System.out.println("3rd Change");
+		
 	}
 
 }
